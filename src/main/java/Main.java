@@ -1,5 +1,3 @@
-package com.example;
-
 class SumCalculator {
 
     public int sum(int n) {
